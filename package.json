@@ -1,0 +1,1 @@
+{"name": "csgo-skin-system","version": "1.0.0","description": "CSGO skin rental system","main": "index.js","dependencies": {"express": "^4.17.1","mongoose": "^5.10.9","dotenv": "^8.2.0"}}
